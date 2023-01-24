@@ -18,6 +18,9 @@ botaoFecharModal.addEventListener("click", () => {
     video.setAttribute("src", "");
 });
 
+console.log('')
+
+
 
 
 
